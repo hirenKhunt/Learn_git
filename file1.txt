@@ -2,3 +2,6 @@ hello
 apple 
 ball
 cat
+doll 
+element 
+fish 
